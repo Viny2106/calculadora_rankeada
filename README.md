@@ -24,5 +24,8 @@ Se vitórias for maior ou igual a 101 = Imortal
 ## Saída
 
 Ao final deve se exibir uma mensagem:
-"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"  
+
+## Conclusão 
+ Colocando em prática no desafio de codigo o que eu aprendi sobre funcões com parâmentros e funções com retorno. 
  
